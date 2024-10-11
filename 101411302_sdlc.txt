@@ -1,3 +1,4 @@
+Conor Le 101411302
 Learning DevOps is crucial in the software development cycle for several reasons:
 
 - Faster Development and Deployment: DevOps practices automate and streamline the development process, enabling continuous integration and continuous deployment (CI/CD). This leads to faster delivery of features, updates, and bug fixes.
