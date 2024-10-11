@@ -1,7 +1,6 @@
 # COMP3104_Group16_Assignment
 ## Group Members
 - **Leader:** Conor Le (101411302) - [GitHub](https://github.com/thanhvu2004)
-- **Member 2:** Jane Doe (1023456) - [GitHub](https://github.com/janedoe)
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on
 collaborative Git workflows, branching strategies, and CI/CD integration.
