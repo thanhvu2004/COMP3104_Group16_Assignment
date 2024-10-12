@@ -1,0 +1,10 @@
+name: GitHub Actions Demo
+on: [push]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    - run: echo "Running automated tests!"
+    - run: echo "CI workflow successfully triggered."
