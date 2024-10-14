@@ -1,13 +1,14 @@
 # COMP3104_Group16_Assignment
 ## Group Members
 - **Leader:** Conor Le (101411302) - [GitHub](https://github.com/thanhvu2004)
+- **Group Mamber** Abinet Aniyo(101228708) - [GItHub] (https://github.com/Abinetaniyo)
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on
 collaborative Git workflows, branching strategies, and CI/CD integration.
 ## Setup Instructions
-1. Clone the repository.
-2. Switch to your branch using `git checkout STUDENTID-Name`.
-3. Install any dependencies as listed.
+1. Clone the repository with `git clone <path name>`.
+2. Go into the folder with `cd <path to folder>`.
+3. Switch to your branch using `git checkout STUDENTID-Name`.
 ## CI/CD Pipeline
 The project utilizes GitHub Actions for continuous integration. The workflow is defined
 in `.github/workflows/ci.yml`.
